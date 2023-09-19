@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/michaelosas78" target="blank"><img src="https://img.shields.io/twitter/follow/michaelosas78?logo=twitter&style=for-the-badge" alt="michaelosas78" /></a> </p>
 
-- 🔭 I’m currently working on **Electricity Data Tracker**
+- 🔭 I’m currently working on **Chat application**
 
 - 🌱 I’m currently learning **Solidity & Web3 for blockchain development, NodeJs for backend development, Data structure and Algorithm**
 
