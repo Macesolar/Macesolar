@@ -2,7 +2,7 @@
 <img src="https://res.cloudinary.com/dpvl31dut/image/upload/v1679468417/Group_19_gdtfmc.svg" alt"Kpamichukwu Ehiedu Github Banner">
 <h3 align="center">Enthusiastic Software Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/michaelosas78" target="blank"><img src="https://img.shields.io/twitter/follow/michaelosas78?logo=twitter&style=for-the-badge" alt="michaelosas78" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ehiedu-kpamichukwu-bb4016292" target="blank"><img src="https://img.shields.io/linkedin/follow/Kpamichukwu Ehiedu?logo=linkedin&style=for-the-badge" alt="Kpamichukwu Ehiedu" /></a> </p>
 
 - 🔭 I’m currently working on **Chat application**
 
