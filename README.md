@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-seth&show_icons=true&locale=en&layout=compact" alt="Kpamichukwu Ehiedu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-seth&show_icons=true&locale=en" alt="Kpamichukwu Ehiedu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Macesolar&show_icons=true&locale=en" alt="Kpamichukwu Ehiedu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-seth&" alt="Kpamichukwu Ehiedu" /></p>
 
